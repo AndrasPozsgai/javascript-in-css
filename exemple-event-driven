@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Wery simle!</h2>
+
+<p id="hello">JavaScript can change the style of an HTML element.</p>
+
+<button type="button" onclick="document.getElementById('helo').style.fontSize='16px'">Click here!</button>
+
+</body>
+</html> 
